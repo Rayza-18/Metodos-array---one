@@ -1,4 +1,4 @@
-*aprendendo sobre metodos
+ *aprendendo sobre metodos
 
 metodo filter, sort, reduce, map e forEach
 
